@@ -13,7 +13,7 @@
 # STUDIES
 
 <h1 align="center">
-    <img alt="Studies" title="#studies" src="./public/readme/001" />
+    <img alt="Studies" title="#studies" src="./public/readme/001.png" />
 </h1>
     
 
